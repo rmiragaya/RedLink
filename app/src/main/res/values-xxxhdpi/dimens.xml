@@ -1,0 +1,4 @@
+<resources>
+	<dimen name="descripcion">23.4sp</dimen>
+	<dimen name="titulo">30sp</dimen>
+</resources>
